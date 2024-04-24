@@ -1,0 +1,3 @@
+Best parameters: {'multinomialnb__alpha': 1.0, 'multinomialnb__fit_prior': True}
+Best cross-validation score: 0.8117697441786937
+Test set score: 0.8194297782470961
