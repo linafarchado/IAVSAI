@@ -1,0 +1,3 @@
+Best parameters: {'countvectorizer__lowercase': False, 'countvectorizer__ngram_range': (2, 2), 'countvectorizer__stop_words': 'english', 'countvectorizer__tokenizer': <function word_tokenize at 0x7f5bc536afc0>, 'logisticregression__C': 1, 'logisticregression__penalty': 'l2'}
+Best cross-validation score: 0.9308385598688735
+Test set score: 0.9391059486096445
